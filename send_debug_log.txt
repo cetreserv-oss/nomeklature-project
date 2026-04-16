@@ -1,0 +1,5 @@
+files copied autotest_marki_send_debug_1776164748.xlsm autotest_nomenclature_send_debug_1776164748.xlsx autotest_archive_send_debug_1776164748.xlsx
+opened workbook 0.47
+configured 0.52
+prepared 14.92 success Готово
+send start 14.93
